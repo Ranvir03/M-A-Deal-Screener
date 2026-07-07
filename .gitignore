@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+
+# Local backups / scratch
+app_legacy_backup.py
+*.xlsx
+!FIN*.xlsx
+
+# OS / editor
+.DS_Store
+Thumbs.db
